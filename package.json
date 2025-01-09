@@ -63,7 +63,7 @@
     "@types/react": "^17.0.43",
     "@types/react-dom": "^18.0.3",
     "@types/react-lazyload": "^3.2.3",
-    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/eslint-plugin": "^8.19.1",
     "@typescript-eslint/parser": "^5.62.0",
     "eslint": "^8.57.0",
     "eslint-config-next": "^15.1.4",
