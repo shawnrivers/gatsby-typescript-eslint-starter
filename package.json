@@ -57,7 +57,7 @@
     "@storybook/addon-essentials": "^8.5.3",
     "@storybook/addon-links": "^8.5.3",
     "@storybook/preset-typescript": "^3.0.0",
-    "@storybook/react": "^6.5.16",
+    "@storybook/react": "^8.5.3",
     "@types/jest": "^27.5.0",
     "@types/node": "^22.13.1",
     "@types/react": "^17.0.43",
